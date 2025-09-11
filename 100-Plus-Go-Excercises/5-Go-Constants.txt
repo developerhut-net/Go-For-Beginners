@@ -1,0 +1,14 @@
+
+5. Go Constants
+
+Goal: Learn how to declare and use constants.
+
+1. Declare a constant PI = 3.14 and print it.
+
+2. Create a constant country = "UAE" and print: "I live in UAE".
+
+3. Show difference between const and var by declaring both and printing them.
+
+4. Declare multiple constants (Red, Green, Blue) and print them.
+
+5. Create a constant DaysInWeek = 7 and print: "There are 7 days in a week".

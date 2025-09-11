@@ -1,0 +1,14 @@
+
+2. Go Variables – Declaring Variables
+
+Goal: Learn how to declare and use variables with var and :=.
+
+1. Declare a variable name and store your name. Print it.
+
+2. Create a variable age and print: "I am X years old" (replace X with value).
+
+3. Declare a variable isStudent with a boolean value and print it.
+
+4. Use the shorthand := to declare and print your favorite number.
+
+5. Create two integer variables, add them, and print the result.

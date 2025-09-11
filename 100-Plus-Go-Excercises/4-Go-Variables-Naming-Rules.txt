@@ -1,0 +1,14 @@
+
+4. Go Variables – Naming Rules
+
+Goal: Understand valid and invalid variable names.
+
+1. Create variables with camelCase names like studentName and print them.
+
+2. Try declaring a variable starting with _ (underscore) and use it.
+
+3. Show an invalid variable name (like 2name) in comments and explain why it’s wrong.
+
+4. Write a program with two variables: one with a clear name (age) and one with a bad name (a). Print both to compare.
+
+5. Create a variable with a multi-word name (e.g., favoriteFood) and print it.

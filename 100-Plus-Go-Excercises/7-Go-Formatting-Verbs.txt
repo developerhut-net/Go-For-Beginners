@@ -1,0 +1,14 @@
+
+7. Go Formatting Verbs
+
+Goal: Learn different formatting verbs with Printf().
+
+1. Declare a string and print it using %s.
+
+2. Declare an integer and print it using %d.
+
+3. Declare a float number and print it using %f.
+
+4. Declare a boolean and print it using %t.
+
+5. Print a float value with only 2 decimal places using %.2f.

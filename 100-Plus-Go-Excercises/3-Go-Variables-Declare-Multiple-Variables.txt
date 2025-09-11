@@ -1,0 +1,14 @@
+
+3. Go Variables – Declare Multiple Variables
+
+Goal: Learn to declare multiple variables in one line.
+
+1. Declare two variables firstName and lastName in one line, then print them.
+
+2. Create three integer variables (x, y, z) in one line and print their sum.
+
+3. Declare multiple variables of different types (e.g., city, population, isCapital) and print them.
+
+4. Assign values to two variables in a single statement using :=.
+
+5. Declare three variables in one line without assigning values, then assign later.

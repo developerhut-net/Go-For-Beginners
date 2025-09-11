@@ -1,0 +1,14 @@
+
+6. Go Output Functions
+
+Goal: Practice Print(), Println(), and Printf().
+
+1. Use fmt.Print() to print two strings on the same line.
+
+2. Use fmt.Println() to print two strings on separate lines.
+
+3. Create a variable name := "Ashish" and print: My name is Ashish using Printf().
+
+4. Print three numbers using Print(), then the same using Println(). Notice the difference.
+
+5. Combine Println() and Printf() in one program to display your name and age.

@@ -1,0 +1,14 @@
+
+1. Go Comments
+
+Goal: Understand how to use single-line (//) and multi-line (/* ... */) comments in Go.
+
+1. Write a program that prints Hello, Go! and add a single-line comment above the print statement.
+
+2. Create a program with your name and age as output, and use comments to explain each line.
+
+3. Add a multi-line comment at the beginning of the program explaining what your program does.
+
+4. Comment out one line of code (e.g., a print statement) and see if it runs.
+
+5. Write a program with three print statements and explain each one using comments.
