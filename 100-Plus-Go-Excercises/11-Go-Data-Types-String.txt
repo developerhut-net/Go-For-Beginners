@@ -1,0 +1,14 @@
+
+11. Go Data Types – String
+
+Goal: Work with string values and operations.
+
+1. Declare a string name := "GoLang" and print it.
+
+2. Concatenate two strings ("Hello" + "World") and print the result.
+
+3. Find the length of a string using len() and print it.
+
+4. Access the first character of a string (using index) and print it.
+
+5. Create a string and print it in uppercase using strings.ToUpper().

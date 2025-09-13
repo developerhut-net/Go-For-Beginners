@@ -1,0 +1,14 @@
+
+9. Go Data Types – Integer
+
+Goal: Work with integer values.
+
+1. Declare an integer age := 25 and print it.
+
+2. Add two integers and print the result.
+
+3. Subtract one integer from another and print the result.
+
+4. Multiply two integers and print the result.
+
+5. Divide two integers and print the result (check the output carefully).

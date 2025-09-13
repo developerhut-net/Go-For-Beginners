@@ -1,0 +1,14 @@
+
+8. Go Data Types – Boolean
+
+Goal: Work with boolean variables.
+
+1. Declare a variable isStudent := true and print it.
+
+2. Create two boolean variables and print their && (AND) result.
+
+3. Create two boolean variables and print their || (OR) result.
+
+4. Write a program that compares two numbers (e.g., 5 > 3) and prints the result.
+
+5. Toggle a boolean variable (true → false) and print both values.

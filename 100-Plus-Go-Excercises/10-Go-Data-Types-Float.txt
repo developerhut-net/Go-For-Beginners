@@ -1,0 +1,14 @@
+
+10. Go Data Types – Float
+
+Goal: Work with float values.
+
+1. Declare a float pi := 3.14 and print it.
+
+2. Add two float numbers and print the result.
+
+3. Divide two float numbers and print the result.
+
+4. Print a float number with 2 decimal places using Printf().
+
+5. Declare two variables (int and float), add them (after converting int → float), and print the result.
