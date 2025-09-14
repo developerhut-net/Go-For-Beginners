@@ -1,0 +1,14 @@
+
+16. Go Condition (if-else)
+
+Goal: Learn to use if, else if, and else.
+
+1. Write a program to check if a number is positive or negative.
+
+2. Check if a number is even or odd.
+
+3. Compare two numbers and print the larger one.
+
+4. Take an integer age and print "Adult" if >=18, otherwise "Minor".
+
+5. Write a program that checks if a number is divisible by both 2 and 3.

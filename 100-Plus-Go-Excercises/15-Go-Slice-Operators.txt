@@ -1,0 +1,14 @@
+
+15. Go Operators
+
+Goal: Practice arithmetic, comparison, and logical operators.
+
+1. Add, subtract, multiply, and divide two numbers. Print results.
+
+2. Use the % operator to find the remainder of two numbers.
+
+3. Compare two numbers with ==, !=, >, <. Print the results.
+
+4. Use logical operators (&&, ||, !) with boolean variables.
+
+5. Show how assignment operators work (+=, -=, *=) with an integer variable.

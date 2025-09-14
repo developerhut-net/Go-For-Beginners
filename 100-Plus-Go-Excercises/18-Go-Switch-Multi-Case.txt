@@ -1,0 +1,14 @@
+
+18. Go Switch – Multi-Case
+
+Goal: Practice switch with multiple values in one case.
+
+1. Write a switch to check if a day is weekday or weekend.
+
+2. Group grades (A and B → "Pass", C and D → "Try harder").
+
+3. Check if a number is small (1–3) or big (4–6) using multiple cases.
+
+4. Use multiple case values to print if a letter is a vowel or consonant.
+
+5. Create a switch to classify months (e.g., 12, 1, 2 → "Winter").

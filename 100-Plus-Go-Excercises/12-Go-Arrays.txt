@@ -1,0 +1,14 @@
+
+12. Go Arrays
+
+Goal: Learn how to declare and use arrays.
+
+1. Declare an array of 3 integers and print it.
+
+2. Create an array of strings ("Go", "Java", "Python") and print the second element.
+
+3. Find the length of an array using len() and print it.
+
+4. Update one element in the array and print the whole array again.
+
+5. Loop through an array using for and print each value.

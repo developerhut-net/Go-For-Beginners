@@ -1,0 +1,14 @@
+
+13. Go Slice
+
+Goal: Work with slices (dynamic arrays).
+
+1. Create a slice of integers and print it.
+
+2. Append a value to a slice using append() and print it.
+
+3. Access the first and last element of a slice and print them.
+
+4. Create a slice from an array and print it.
+
+5. Find the length and capacity of a slice using len() and cap().

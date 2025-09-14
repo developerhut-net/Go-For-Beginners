@@ -1,0 +1,14 @@
+
+14. Slice Operations
+
+Goal: Practice common slice operations.
+
+1. Create a slice with 5 numbers and print a sub-slice (first 3 numbers).
+
+2. Append multiple values to a slice in one statement.
+
+3. Copy a slice into another slice using copy().
+
+4. Remove the second element from a slice (using slicing and append).
+
+5. Create a slice, modify one element, and show that it changes in the original array (if created from array).
