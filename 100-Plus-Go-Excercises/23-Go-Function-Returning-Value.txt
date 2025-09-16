@@ -1,0 +1,14 @@
+
+23. Go Function Returning Value
+
+Goal: Learn to return values from functions.
+
+1. Write a function that returns your favorite number and print it.
+
+2. Create a function that takes two numbers and returns their sum.
+
+3. Make a function that returns the square of a number.
+
+4. Write a function that returns "Adult" if age >= 18, else "Minor".
+
+5. Create a function that returns the length of a string.

@@ -1,0 +1,14 @@
+
+25. Go Struct (Composite Types)
+
+Goal: Learn to define and use structs.
+
+1. Define a struct Person with name and age. Create one and print it.
+
+2. Create a struct Car with brand and year, then print its fields separately.
+
+3. Define a struct Book with title and author. Initialize it with values.
+
+4. Create a struct, assign values later, and print them.
+
+5. Write a program where a struct is passed to a function and printed.

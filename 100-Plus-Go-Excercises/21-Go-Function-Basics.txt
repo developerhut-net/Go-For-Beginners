@@ -1,0 +1,14 @@
+
+21. Go Function Basics
+
+Goal: Learn to create and call simple functions.
+
+1. Write a function that prints "Hello from a function" and call it.
+
+2. Create a function that prints your name.
+
+3. Define a function greet() that prints "Welcome to Go!".
+
+4. Make a function that adds two fixed numbers and prints the result.
+
+5. Call the same function multiple times to see repeated output.

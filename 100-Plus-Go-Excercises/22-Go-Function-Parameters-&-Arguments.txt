@@ -1,0 +1,14 @@
+
+22. Go Function Parameters & Arguments
+
+Goal: Learn functions with parameters.
+
+1. Write a function that takes your name as a parameter and prints it.
+
+2. Create a function that takes two numbers as parameters and prints their sum.
+
+3. Write a function that takes two strings and prints them together.
+
+4. Create a function that takes an integer and prints if it’s even or odd.
+
+5. Make a function that takes a string and an integer, and prints them together.

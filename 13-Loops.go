@@ -42,4 +42,26 @@ for i:=0; i < len(arr1); i++ {
 
 }
 
+// Ranges
+
+/*
+	for index, value := range array|slice|map {
+		// code block
+	}
+*/
+
+country := [3]string{"UAE", "England", "South Africa"};
+
+for index, value := range country {
+	fmt.Printf("%v\t%v\n", index, value);
+}
+
+for _, value := range country {
+	fmt.Printf("%v\n", value);
+}
+
+for i, _ := range country {
+	fmt.Printf("%v\n", i);
+}
+
 }

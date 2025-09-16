@@ -1,0 +1,14 @@
+
+20. Go for Range
+
+Goal: Learn to loop over arrays and slices with for range.
+
+1. Loop through an array of integers and print each element.
+
+2. Loop through a slice of strings ("Go", "Python", "Java") and print each one.
+
+3. Use for range to find the sum of an integer slice.
+
+4. Print both index and value while looping through a slice.
+
+5. Loop through a string using for range and print each character.
